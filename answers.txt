@@ -1,7 +1,11 @@
 Q1: Why might we consider using Git?
 
-Answer: Git allows us to track changes we make to our files, creating a record of file activity and allowing us to switch between different versions of the project if necessary. Git is popular for software development because it is collaborative, versatile, and free. 
+Answer: Git allows us to track changes we make to our files, creating a record of file activity and allowing us to switch between different versions of the project if necessary. In addition, Git is popular in the development community because it is collaborative, versatile, and free, so it is important to learn to use it. 
 
 Q2: What field could data science be applied to? Give an Example.
 
-Answer: Data science can be used in the field of advertising. For example, advertisers can study large amounts of user data to find out what kinds of ads people are most willing to interact with and what kinds of products people are interested in the most. Using insights gained from analyzing this data, advertisers can produce more ads that people would be likely to engage with, thus increasing profits.  
+Answer: Data science can be used in the field of advertising. For example, advertisers can study large amounts of user data to find out what kinds of ads people are most willing to interact with and what kinds of products people are interested in the most. Using insights gained from analyzing this data, advertisers can produce more ads that people would be likely to engage with, thus increasing profits. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: While both merging and rebasing are ways to combine code from different branches, their inner workings are different. For example, merging preserves the commit history of both branches, but rebasing puts together a series of branch changes onto a new branch, creating a new linear history. This means that rebasing does not preserve the entire project history. 
