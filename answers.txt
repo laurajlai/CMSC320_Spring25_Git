@@ -8,4 +8,8 @@ Answer: Data science can be used in the field of advertising. For example, adver
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: While both merging and rebasing are ways to combine code from different branches, their inner workings are different. For example, merging preserves the commit history of both branches, but rebasing puts together a series of branch changes onto a new branch, creating a new linear history. This means that rebasing does not preserve the entire project history. 
+Answer: While both merging and rebasing are ways to combine code from different branches, their inner workings are different. For example, merging preserves the commit history of both branches, but rebasing puts together a series of branch changes onto a new branch, creating a new linear history. This means that rebasing does not preserve the entire project history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forwards to learning more about Python and SQL; I know that Python is really popular right now but I've never had the chance to learn it formally. I hope that by taking this class, I will be better informed on Python and its most powerful libraries. 
